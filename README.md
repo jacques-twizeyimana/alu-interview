@@ -1,4 +1,3 @@
-
 # ALU Technical Interviews Preparations
 
 This repository contains resources to help you prepare for technical interviews at African Leadership University (ALU). It includes coding challenges, interview tips, and guidance on common interview formats.
@@ -11,9 +10,9 @@ This repository contains resources to help you prepare for technical interviews 
 
 ## How to Use
 
-1. **Clone the repo**:  
+1. **Clone the repo**:
    ```bash
-   git clone https://github.com/oreste-abizera/alu-interview-prep.git
+   git clone https://github.com/jacques-twizeyimana/alu-interview.git
    ```
 2. **Navigate through the folders** to find practice questions and tips.
 
